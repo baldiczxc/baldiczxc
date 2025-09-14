@@ -31,8 +31,6 @@ Python-разработчик | Автоматизация | ИИ 🤖
 ## 🌐 Социальные сети и контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gortlt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) <!-- Добавь свой LinkedIn, если есть -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- Замени на свой email -->
 
 ---
 
