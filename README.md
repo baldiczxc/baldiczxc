@@ -28,12 +28,6 @@ Python-разработчик | Автоматизация | ИИ 🤖
 
 ---
 
-## 🌐 Социальные сети и контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gortlt)
-
----
-
 ## 🚀 Проекты
 
 - **Aiogram боты** — Автоматизация взаимодействия с Telegram.
@@ -50,3 +44,4 @@ Python-разработчик | Автоматизация | ИИ 🤖
 
 ---
 
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gortlt)
