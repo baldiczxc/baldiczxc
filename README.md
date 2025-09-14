@@ -43,7 +43,6 @@
 
 - 🔗 [Tg-g4f](https://github.com/baldiczxc/Tg-g4f) — Telegram бот с интеграцией AI.
 - 🔗 [parser-stroy](https://github.com/baldiczxc/parser-stroy) — эффективные парсеры для маркетплейсов.
-- 🔗 [web-card](https://github.com/baldiczxc/web-card) — генерация веб-карточек.
 
 </details>
 
