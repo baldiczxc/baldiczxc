@@ -25,10 +25,8 @@
 
 ## 📊 Github Статистика
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baldiczxc&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldiczxc&layout=compact&theme=radical" height="170">
-</p>
+![Metrics](https://metrics.lecoq.io/baldiczxc?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMoscow)
+
 
 ---
 
