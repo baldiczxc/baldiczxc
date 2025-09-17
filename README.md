@@ -24,7 +24,12 @@
 ---
 
 ## 📊 Github Статистика
-![Metrics](https://metrics.lecoq.io/baldiczxc?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMoscow)
+
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baldiczxc&theme=radical)
+![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baldiczxc&theme=radical)
+![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baldiczxc&theme=radical)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baldiczxc&theme=radical)
+![productive](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baldiczxc&theme=radical&utcOffset=3)
 
 
 ---
