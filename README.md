@@ -24,7 +24,6 @@
 ---
 
 ## 📊 Github Статистика
-
 ![Metrics](https://metrics.lecoq.io/baldiczxc?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMoscow)
 
 
